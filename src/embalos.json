@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Lux",
+        "card": "Guardiã estelar",
+        "valor": 100,
+        "imagem": "../Embalos/Lux Embalos.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Nami",
+        "card": "Profundezas do espaço",
+        "valor": 150,
+        "imagem": "../Embalos/Nami Embalos.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Syndra",
+        "card": "Guardiã magestosa",
+        "valor": 150,
+        "imagem": "../Embalos/Syndra Guardian.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Morgana",
+        "card": "A Bruxa",
+        "valor": 200,
+        "imagem": "../Embalos/Morgana Nemesis.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Taric",
+        "card": "Ritmo no espaço",
+        "valor": 100,
+        "imagem": "../Embalos/Taric Embalos.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Teemo",
+        "card": "O Explorador veloz",
+        "valor": 250,
+        "imagem": "../Embalos/Teemo Embalos.jpg"
+    }
+
+    
+
+
+]
